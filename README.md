@@ -32,13 +32,14 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhisingh980&show_icons=true&theme=radical" alt="Your GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MukeshRavidas&show_icons=true&theme=radical" alt="Your GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhisingh980&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MukeshRavidas&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
